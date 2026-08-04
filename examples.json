@@ -1,0 +1,46 @@
+{
+  "catalogVersion": "1.0",
+  "lastUpdated": "2026-08-04",
+  "examples": [
+    {
+      "id": "tc37x.bsp.llvm",
+      "displayName": "TC37x BSP example LLVM",
+      "abstract": "A BSP example is a small functional project designed to simplify an evaluation phase of the TC37x microcontrollers...",
+      "device": "TC37x",
+      "tags": [
+        "example",
+        "aurix2g",
+        "bsp",
+        "LLVM"
+      ],
+      "contentType": "ECLIPSE_GENPRJ_STD",
+      "version": "4.0",
+      "github": {
+        "repoUrl": "https://github.com/HTH-Test-org/tc37x-bsp-example-llvm",
+        "downloadUrl": "https://github.com/HTH-Test-org/tc37x-bsp-example-llvm/archive/refs/tags/v4.0.zip"
+      },
+      "sizeBytes": 1542000,
+      "lastModifiedEpoch": 1723896000000
+    },
+    {
+      "id": "tc32x.bsp.llvm",
+      "displayName": "TC32x BSP example LLVM",
+      "abstract": "A BSP example is a small functional project designed to simplify an evaluation phase of the TC32x microcontrollers...",
+      "device": "TC32x",
+      "tags": [
+        "example",
+        "aurix2g",
+        "bsp",
+        "LLVM"
+      ],
+      "contentType": "ECLIPSE_GENPRJ_STD",
+      "version": "3.1",
+      "github": {
+        "repoUrl": "https://github.com/HTH-Test-org/tc32x-bsp-example-llvm",
+        "downloadUrl": "https://github.com/HTH-Test-org/tc32x-bsp-example-llvm/archive/refs/tags/v3.1.zip"
+      },
+      "sizeBytes": 1542000,
+      "lastModifiedEpoch": 1723896000000
+    }
+  ]
+}
