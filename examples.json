@@ -1,0 +1,33 @@
+[
+    {
+        "id": "tc37x-bsp-example-llvm",
+        "displayName": "TC37x BSP example LLVM",
+        "abstract": "A BSP example is a small functional project designed to simplify an evaluation phase of the TC37x microcontrollers. It comes with necessary low-level functions like a startup code, a minimalistic hardware abstraction and predefined memory partitioning. On top of this low-level implementation, it provides a reference application code running on all uC cores. This example variant supports the Tricore LLVM toolchain build system",
+        "device": "TC37x",
+        "tags": [
+            "example",
+            "aurix2g",
+            "bsp",
+            "LLVM"
+        ],
+        "contentType": "ECLIPSE_GENPRJ_STD",
+        "versions": [
+            {
+                "version": "5.0",
+                "isLatest": true,
+                "downloadUrl": "https://api.github.com/repos/HTH-Test-org/tc37x-bsp-example-llvm/zipball/5.0",
+                "releaseNotes": "release note",
+                "sizeBytes": 0,
+                "lastModifiedEpoch": 1787815409000
+            },
+            {
+                "version": "4.0",
+                "isLatest": false,
+                "downloadUrl": "https://api.github.com/repos/HTH-Test-org/tc37x-bsp-example-llvm/zipball/4.0",
+                "releaseNotes": "A BSP example is a small functional project designed to simplify an evaluation phase of the TC37x microcontrollers. It comes with necessary low-level functions like a startup code, a minimalistic hardware abstraction and predefined memory partitioning. On top of this low-level implementation, it provides a reference application code running on all uC cores. This example variant supports the Tricore LLVM toolchain build system\r\n",
+                "sizeBytes": 0,
+                "lastModifiedEpoch": 1787815235000
+            }
+        ]
+    }
+]
