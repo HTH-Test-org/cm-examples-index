@@ -17,8 +17,16 @@
             },
             "versions": [
                 {
-                    "version": "5.0",
+                    "version": "6.0",
                     "isLatest": true,
+                    "downloadUrl": "https://api.github.com/repos/HTH-Test-org/tc37x-bsp-example-llvm/zipball/6.0",
+                    "releaseNotes": "lépoefwkmefr",
+                    "sizeBytes": 189641,
+                    "lastModifiedEpoch": 1788259528000
+                },
+                {
+                    "version": "5.0",
+                    "isLatest": false,
                     "downloadUrl": "https://api.github.com/repos/HTH-Test-org/tc37x-bsp-example-llvm/zipball/5.0",
                     "releaseNotes": "release note",
                     "sizeBytes": 1483935,
